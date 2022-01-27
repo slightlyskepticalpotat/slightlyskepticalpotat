@@ -2,11 +2,9 @@
 
 I'm a high schooler who loves coding, math, and everything in between. That includes cryptography, cryptocurrency, artificial intelligence, and quantum computing. I'll never know everything there is to know about those, but I'm trying to learn something new every day. I believe in the principles of FOSS, and the vast majority of my projects are copylefted—shoot me an email if you have questions, concerns, comments, angry rants, or anything else you want to say to me. When I'm not learning about or making something \[possibly\] cool, I'm probably reading science fiction, making blunders in Chess or Diplomacy, playing modded Minecraft, or fixing my Linux install because I somehow managed to break it again.
 
-Currently Working On: `Persisting Bootstrap tabs on reload with cookies`
+Currently Coding: `Making GitHub Linguist recognise Markdown files`
 
-Currently Learning: `About how to use the match/case syntax in Python 3.10`
-
-Currently Desire: `All the chocolate in the world; even the milk chocolate`
+Currently Learning: `OOP in C++; it's about as fun as it sounds `
 
 ---
 

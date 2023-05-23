@@ -15,5 +15,5 @@ I'm a high schooler who loves coding, math, and everything in between. That incl
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=slightlyskepticalpotat&count_private=true&show_icons=true&theme=material-palenight&icon_color=6a5acd&hide_border=true&line_height=25&custom_title=Contribution%20Statistics&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=slightlyskepticalpotat&theme=material-palenight&hide_border=true&layout=compact&langs_count=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=slightlyskepticalpotat&count_private=true&show_icons=true&theme=material-palenight&icon_color=6a5acd&hide_border=true&line_height=28&custom_title=Contribution%20Statistics&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=slightlyskepticalpotat&theme=material-palenight&hide_border=true&layout=compact&langs_count=10&card_width=400)

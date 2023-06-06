@@ -12,7 +12,7 @@ I'm a first-year Software Engineering student at the University of Waterloo expe
 
 ---
 
-[![bookmarkarchiver](https://github-readme-stats.vercel.app/api/pin?username=slightlyskepticalpotat&repo=bookmarkarchiver&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/slightlyskepticalpotat/bookmarkarchiver)
+[![bookmark-archiver](https://github-readme-stats.vercel.app/api/pin?username=slightlyskepticalpotat&repo=bookmark-archiver&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/slightlyskepticalpotat/bookmark-archiver)
 [![chenanthony-new](https://github-readme-stats.vercel.app/api/pin?username=slightlyskepticalpotat&repo=chenanthony-new&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/slightlyskepticalpotat/chenanthony-new)
 [![dogecoin-unofficial](https://github-readme-stats.vercel.app/api/pin?username=slightlyskepticalpotat&repo=dogecoin-unofficial&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/slightlyskepticalpotat/dogecoin-unofficial)
 [![file-visualiser](https://github-readme-stats.vercel.app/api/pin?username=slightlyskepticalpotat&repo=file-visualiser&theme=material-palenight&icon_color=6a5acd&hide_border=true)](https://github.com/slightlyskepticalpotat/file-visualiser)

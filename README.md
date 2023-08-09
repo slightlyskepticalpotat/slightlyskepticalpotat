@@ -1,4 +1,4 @@
-<h1 align="center">Evening! I'm <a href="https://chenanthony.com/">Anthony Chen</a>.</h1>
+<h1 align="center">Hi there! I'm <a href="https://chenanthony.com/">Anthony Chen</a>.</h1>
 
 ---
 

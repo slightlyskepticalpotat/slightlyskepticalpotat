@@ -1,10 +1,10 @@
-<h1 align="center">Hi there! I'm <a href="https://chenanthony.com/">Anthony Chen</a>.</h1>
+<h1 align="center">Hi there! I'm <a href="https://chenanthony.com/">Anthony</a>.</h1>
 
 ---
 
 <div align="justify">
 
-I'm a second-year Software Engineering student at the University of Waterloo. I love coding, math, and everything in between! That includes cryptography, cybersecurity, and quantum information among other areas. I'll never know all there is to know, but I'm always trying to learn a little more. When I'm not exploring the untamed wilds of the internet, I'm probably reading science fiction or fixing my computer after somehow breaking it again...
+I'm a Software Engineering student at the University of Waterloo. I love coding, math, and everything in between! That includes cryptography and cybersecurity, among other areas. I'll never know all there is to know, but I'm always trying to learn a little more. When I'm not exploring the untamed wilds of the internet, I'm probably reading science fiction or fixing my computer after somehow breaking it again...
 
 </div>
 
